@@ -8,3 +8,4 @@ fix master bug 2222
 
 #dev login after fix bugs
 #add -u
+#from the remote
